@@ -12,7 +12,7 @@ apps:
   basic-snap:
     command: basic.sh
   hello:
-    command: hello.sh
+    command: hello.sh Hello world
   hi:
     command: d1/d2/hi.sh
 
